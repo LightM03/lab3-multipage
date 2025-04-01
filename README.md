@@ -1,6 +1,7 @@
 STUDENT DETAILS:
 
 Rabecca Mwale - 2021382893
+Partner: Bupe Mwaba 2021464725
 
 DESCRIPTION:
 In this lab, we explored how to use CSS3 to add styling across multiple HTML pages and implement responsive design while maintaining clean, and reusable code structure across pages.
